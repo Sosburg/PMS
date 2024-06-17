@@ -1,0 +1,16 @@
+{
+    "name": "olorato/project",
+    "description": "olorato/mysafa",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "olorato"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

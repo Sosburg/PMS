@@ -1,0 +1,298 @@
+--- File cleaned up by Wampserver ---
+--- on 2023-11-21 04:34
+[21-Nov-2023 04:38:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\wamp64\www\MafiFeed\Includes\db.php on line 8
+[21-Nov-2023 04:38:50 UTC] PHP Stack trace:
+[21-Nov-2023 04:38:50 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\BuyerLogin.php:0
+[21-Nov-2023 04:38:50 UTC] PHP   2. include() C:\wamp64\www\MafiFeed\auth\BuyerLogin.php:7
+[21-Nov-2023 04:38:50 UTC] PHP   3. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = '', $database = 'agrocraftc') C:\wamp64\www\MafiFeed\Includes\db.php:8
+[21-Nov-2023 04:39:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\wamp64\www\MafiFeed\Includes\db.php on line 8
+[21-Nov-2023 04:39:28 UTC] PHP Stack trace:
+[21-Nov-2023 04:39:28 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\BuyerLogin.php:0
+[21-Nov-2023 04:39:28 UTC] PHP   2. include() C:\wamp64\www\MafiFeed\auth\BuyerLogin.php:7
+[21-Nov-2023 04:39:28 UTC] PHP   3. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = '', $database = 'agrocraftc') C:\wamp64\www\MafiFeed\Includes\db.php:8
+[21-Nov-2023 04:39:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\wamp64\www\MafiFeed\Includes\db.php on line 8
+[21-Nov-2023 04:39:40 UTC] PHP Stack trace:
+[21-Nov-2023 04:39:40 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\FarmerLogin.php:0
+[21-Nov-2023 04:39:40 UTC] PHP   2. include() C:\wamp64\www\MafiFeed\auth\FarmerLogin.php:2
+[21-Nov-2023 04:39:40 UTC] PHP   3. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = '', $database = 'agrocraftc') C:\wamp64\www\MafiFeed\Includes\db.php:8
+[21-Nov-2023 04:42:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\wamp64\www\MafiFeed\Includes\db.php on line 8
+[21-Nov-2023 04:42:17 UTC] PHP Stack trace:
+[21-Nov-2023 04:42:17 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\BuyerLogin.php:0
+[21-Nov-2023 04:42:17 UTC] PHP   2. include() C:\wamp64\www\MafiFeed\auth\BuyerLogin.php:7
+[21-Nov-2023 04:42:17 UTC] PHP   3. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = '', $database = 'agrocraftc') C:\wamp64\www\MafiFeed\Includes\db.php:8
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $name in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 166
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $name in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 167
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $phone in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 172
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $address in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 176
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $state in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 181
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $district in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 185
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $pan in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 190
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 08:34:59 UTC] PHP Warning:  Undefined variable $bank in C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php on line 194
+[21-Nov-2023 08:34:59 UTC] PHP Stack trace:
+[21-Nov-2023 08:34:59 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\FarmerProfile.php:0
+[21-Nov-2023 09:37:37 UTC] PHP Warning:  Undefined array key "license" in C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php on line 11
+[21-Nov-2023 09:37:37 UTC] PHP Stack trace:
+[21-Nov-2023 09:37:37 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php:0
+[21-Nov-2023 09:37:37 UTC] PHP Warning:  Undefined array key "account" in C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php on line 12
+[21-Nov-2023 09:37:37 UTC] PHP Stack trace:
+[21-Nov-2023 09:37:37 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php:0
+[21-Nov-2023 10:14:40 UTC] PHP Warning:  Undefined array key "bank" in C:\wamp64\www\MafiFeed\FarmerPortal\EditProfile.php on line 334
+[21-Nov-2023 10:14:40 UTC] PHP Stack trace:
+[21-Nov-2023 10:14:40 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\FarmerPortal\EditProfile.php:0
+[21-Nov-2023 11:39:39 UTC] PHP Warning:  Undefined array key "stateInput" in C:\wamp64\www\MafiFeed\BuyerPortal2\Categories.php on line 713
+[21-Nov-2023 11:39:39 UTC] PHP Stack trace:
+[21-Nov-2023 11:39:39 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\BuyerPortal2\Categories.php:0
+[21-Nov-2023 11:49:47 UTC] PHP Warning:  Undefined array key "account" in C:\wamp64\www\MafiFeed\auth\FarmerRegister.php on line 365
+[21-Nov-2023 11:49:47 UTC] PHP Stack trace:
+[21-Nov-2023 11:49:47 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\FarmerRegister.php:0
+[21-Nov-2023 11:55:03 UTC] PHP Warning:  Undefined array key "license" in C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php on line 11
+[21-Nov-2023 11:55:03 UTC] PHP Stack trace:
+[21-Nov-2023 11:55:03 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php:0
+[21-Nov-2023 11:55:03 UTC] PHP Warning:  Undefined array key "account" in C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php on line 12
+[21-Nov-2023 11:55:03 UTC] PHP Stack trace:
+[21-Nov-2023 11:55:03 UTC] PHP   1. {main}() C:\wamp64\www\MafiFeed\auth\BuyerRegistration.php:0
+[31-May-2024 19:17:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php on line 24
+[31-May-2024 19:17:42 UTC] PHP Stack trace:
+[31-May-2024 19:17:42 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\signup.php:0
+[31-May-2024 19:17:42 UTC] PHP   2. require() C:\wamp64\www\MySafa\project\signup.php:2
+[31-May-2024 19:17:42 UTC] PHP   3. ComposerAutoloaderInitbd6d5f7bc68a15cd75fb07b0d69cb9d6::getLoader() C:\wamp64\www\MySafa\project\vendor\autoload.php:25
+[31-May-2024 19:17:42 UTC] PHP   4. require() C:\wamp64\www\MySafa\project\vendor\composer\autoload_real.php:25
+[31-May-2024 19:17:42 UTC] PHP   5. trigger_error($message = 'Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26.', $error_level = 256) C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php:24
+[31-May-2024 19:28:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php on line 24
+[31-May-2024 19:28:57 UTC] PHP Stack trace:
+[31-May-2024 19:28:57 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\signup.php:0
+[31-May-2024 19:28:57 UTC] PHP   2. require() C:\wamp64\www\MySafa\project\signup.php:2
+[31-May-2024 19:28:57 UTC] PHP   3. ComposerAutoloaderInitbd6d5f7bc68a15cd75fb07b0d69cb9d6::getLoader() C:\wamp64\www\MySafa\project\vendor\autoload.php:25
+[31-May-2024 19:28:57 UTC] PHP   4. require() C:\wamp64\www\MySafa\project\vendor\composer\autoload_real.php:25
+[31-May-2024 19:28:57 UTC] PHP   5. trigger_error($message = 'Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26.', $error_level = 256) C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php:24
+[31-May-2024 19:29:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php on line 24
+[31-May-2024 19:29:40 UTC] PHP Stack trace:
+[31-May-2024 19:29:40 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\signup.php:0
+[31-May-2024 19:29:40 UTC] PHP   2. require() C:\wamp64\www\MySafa\project\signup.php:2
+[31-May-2024 19:29:40 UTC] PHP   3. ComposerAutoloaderInitbd6d5f7bc68a15cd75fb07b0d69cb9d6::getLoader() C:\wamp64\www\MySafa\project\vendor\autoload.php:25
+[31-May-2024 19:29:40 UTC] PHP   4. require() C:\wamp64\www\MySafa\project\vendor\composer\autoload_real.php:25
+[31-May-2024 19:29:40 UTC] PHP   5. trigger_error($message = 'Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26.', $error_level = 256) C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php:24
+[31-May-2024 19:39:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php on line 24
+[31-May-2024 19:39:52 UTC] PHP Stack trace:
+[31-May-2024 19:39:52 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\signup.php:0
+[31-May-2024 19:39:52 UTC] PHP   2. require() C:\wamp64\www\MySafa\project\signup.php:2
+[31-May-2024 19:39:52 UTC] PHP   3. ComposerAutoloaderInitbd6d5f7bc68a15cd75fb07b0d69cb9d6::getLoader() C:\wamp64\www\MySafa\project\vendor\autoload.php:25
+[31-May-2024 19:39:52 UTC] PHP   4. require() C:\wamp64\www\MySafa\project\vendor\composer\autoload_real.php:25
+[31-May-2024 19:39:52 UTC] PHP   5. trigger_error($message = 'Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26.', $error_level = 256) C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php:24
+[01-Jun-2024 13:44:29 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php on line 24
+[01-Jun-2024 13:44:29 UTC] PHP Stack trace:
+[01-Jun-2024 13:44:29 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 13:44:29 UTC] PHP   2. require() C:\wamp64\www\MySafa\project\test_email.php:2
+[01-Jun-2024 13:44:29 UTC] PHP   3. require() C:\wamp64\www\MySafa\project\email_functions.php:2
+[01-Jun-2024 13:44:29 UTC] PHP   4. ComposerAutoloaderInitbd6d5f7bc68a15cd75fb07b0d69cb9d6::getLoader() C:\wamp64\www\MySafa\project\vendor\autoload.php:25
+[01-Jun-2024 13:44:29 UTC] PHP   5. require() C:\wamp64\www\MySafa\project\vendor\composer\autoload_real.php:25
+[01-Jun-2024 13:44:29 UTC] PHP   6. trigger_error($message = 'Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26.', $error_level = 256) C:\wamp64\www\MySafa\project\vendor\composer\platform_check.php:24
+[01-Jun-2024 14:00:59 UTC] PHP Warning:  Undefined array key "mail" in C:\wamp64\www\MySafa\project\email_functions.php on line 8
+[01-Jun-2024 14:00:59 UTC] PHP Stack trace:
+[01-Jun-2024 14:00:59 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:00:59 UTC] PHP   2. require() C:\wamp64\www\MySafa\project\test_email.php:2
+[01-Jun-2024 14:00:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\MySafa\project\email_functions.php on line 16
+[01-Jun-2024 14:00:59 UTC] PHP Stack trace:
+[01-Jun-2024 14:00:59 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:00:59 UTC] PHP   2. sendVerificationEmail($email = 'dheavenly27@gmail.com', $verification_token = 'your_verification_token') C:\wamp64\www\MySafa\project\test_email.php:5
+[01-Jun-2024 14:00:59 UTC] PHP   3. sendEmail($subject = 'Verify your email address', $body = 'Please click the following link to verify your email address: <a href="http://localhost/MySafa/project/verify.php?token=your_verification_token">Verify Email</a>', $email = 'dheavenly27@gmail.com') C:\wamp64\www\MySafa\project\email_functions.php:41
+[01-Jun-2024 14:00:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\MySafa\project\email_functions.php on line 18
+[01-Jun-2024 14:00:59 UTC] PHP Stack trace:
+[01-Jun-2024 14:00:59 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:00:59 UTC] PHP   2. sendVerificationEmail($email = 'dheavenly27@gmail.com', $verification_token = 'your_verification_token') C:\wamp64\www\MySafa\project\test_email.php:5
+[01-Jun-2024 14:00:59 UTC] PHP   3. sendEmail($subject = 'Verify your email address', $body = 'Please click the following link to verify your email address: <a href="http://localhost/MySafa/project/verify.php?token=your_verification_token">Verify Email</a>', $email = 'dheavenly27@gmail.com') C:\wamp64\www\MySafa\project\email_functions.php:41
+[01-Jun-2024 14:00:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\MySafa\project\email_functions.php on line 19
+[01-Jun-2024 14:00:59 UTC] PHP Stack trace:
+[01-Jun-2024 14:00:59 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:00:59 UTC] PHP   2. sendVerificationEmail($email = 'dheavenly27@gmail.com', $verification_token = 'your_verification_token') C:\wamp64\www\MySafa\project\test_email.php:5
+[01-Jun-2024 14:00:59 UTC] PHP   3. sendEmail($subject = 'Verify your email address', $body = 'Please click the following link to verify your email address: <a href="http://localhost/MySafa/project/verify.php?token=your_verification_token">Verify Email</a>', $email = 'dheavenly27@gmail.com') C:\wamp64\www\MySafa\project\email_functions.php:41
+[01-Jun-2024 14:00:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\MySafa\project\email_functions.php on line 21
+[01-Jun-2024 14:00:59 UTC] PHP Stack trace:
+[01-Jun-2024 14:00:59 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:00:59 UTC] PHP   2. sendVerificationEmail($email = 'dheavenly27@gmail.com', $verification_token = 'your_verification_token') C:\wamp64\www\MySafa\project\test_email.php:5
+[01-Jun-2024 14:00:59 UTC] PHP   3. sendEmail($subject = 'Verify your email address', $body = 'Please click the following link to verify your email address: <a href="http://localhost/MySafa/project/verify.php?token=your_verification_token">Verify Email</a>', $email = 'dheavenly27@gmail.com') C:\wamp64\www\MySafa\project\email_functions.php:41
+[01-Jun-2024 14:00:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\MySafa\project\email_functions.php on line 23
+[01-Jun-2024 14:00:59 UTC] PHP Stack trace:
+[01-Jun-2024 14:00:59 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:00:59 UTC] PHP   2. sendVerificationEmail($email = 'dheavenly27@gmail.com', $verification_token = 'your_verification_token') C:\wamp64\www\MySafa\project\test_email.php:5
+[01-Jun-2024 14:00:59 UTC] PHP   3. sendEmail($subject = 'Verify your email address', $body = 'Please click the following link to verify your email address: <a href="http://localhost/MySafa/project/verify.php?token=your_verification_token">Verify Email</a>', $email = 'dheavenly27@gmail.com') C:\wamp64\www\MySafa\project\email_functions.php:41
+[01-Jun-2024 14:00:59 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\MySafa\project\email_functions.php on line 23
+[01-Jun-2024 14:00:59 UTC] PHP Stack trace:
+[01-Jun-2024 14:01:00 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:01:00 UTC] PHP   2. sendVerificationEmail($email = 'dheavenly27@gmail.com', $verification_token = 'your_verification_token') C:\wamp64\www\MySafa\project\test_email.php:5
+[01-Jun-2024 14:01:00 UTC] PHP   3. sendEmail($subject = 'Verify your email address', $body = 'Please click the following link to verify your email address: <a href="http://localhost/MySafa/project/verify.php?token=your_verification_token">Verify Email</a>', $email = 'dheavenly27@gmail.com') C:\wamp64\www\MySafa\project\email_functions.php:41
+[01-Jun-2024 14:01:00 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\wamp64\www\MySafa\project\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1315
+[01-Jun-2024 14:01:00 UTC] PHP Stack trace:
+[01-Jun-2024 14:01:00 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\test_email.php:0
+[01-Jun-2024 14:01:00 UTC] PHP   2. sendVerificationEmail($email = 'dheavenly27@gmail.com', $verification_token = 'your_verification_token') C:\wamp64\www\MySafa\project\test_email.php:5
+[01-Jun-2024 14:01:00 UTC] PHP   3. sendEmail($subject = 'Verify your email address', $body = 'Please click the following link to verify your email address: <a href="http://localhost/MySafa/project/verify.php?token=your_verification_token">Verify Email</a>', $email = 'dheavenly27@gmail.com') C:\wamp64\www\MySafa\project\email_functions.php:41
+[01-Jun-2024 14:01:00 UTC] PHP   4. PHPMailer\PHPMailer\PHPMailer->setFrom($address = NULL, $name = NULL, $auto = *uninitialized*) C:\wamp64\www\MySafa\project\email_functions.php:23
+[01-Jun-2024 14:01:00 UTC] PHP   5. preg_replace($pattern = '/[\\r\\n]+/', $replacement = '', $subject = NULL) C:\wamp64\www\MySafa\project\vendor\phpmailer\phpmailer\src\PHPMailer.php:1315
+[01-Jun-2024 14:01:00 UTC] Message could not be sent. Mailer Error: Invalid address:  (From): 
+[01-Jun-2024 14:13:47 UTC] PHP Fatal error:  Cannot redeclare sendVerificationEmail() (previously declared in C:\wamp64\www\MySafa\project\signup.php:10) in C:\wamp64\www\MySafa\project\email_functions.php on line 38
+[01-Jun-2024 14:13:47 UTC] PHP Stack trace:
+[01-Jun-2024 14:13:47 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\signup.php:0
+[01-Jun-2024 14:25:27 UTC] PHP Fatal error:  Cannot redeclare sendVerificationEmail() (previously declared in C:\wamp64\www\MySafa\project\signup.php:13) in C:\wamp64\www\MySafa\project\email_functions.php on line 38
+[01-Jun-2024 14:25:27 UTC] PHP Stack trace:
+[01-Jun-2024 14:25:27 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\signup.php:0
+[01-Jun-2024 14:26:24 UTC] PHP Fatal error:  Cannot redeclare sendVerificationEmail() (previously declared in C:\wamp64\www\MySafa\project\signup.php:13) in C:\wamp64\www\MySafa\project\email_functions.php on line 38
+[01-Jun-2024 14:26:24 UTC] PHP Stack trace:
+[01-Jun-2024 14:26:24 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\signup.php:0
+[01-Jun-2024 19:13:49 UTC] PHP Warning:  Undefined array key "username" in C:\wamp64\www\MySafa\project\dashboard.php on line 57
+[01-Jun-2024 19:13:49 UTC] PHP Stack trace:
+[01-Jun-2024 19:13:49 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[01-Jun-2024 19:13:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 57
+[01-Jun-2024 19:13:49 UTC] PHP Stack trace:
+[01-Jun-2024 19:13:49 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[01-Jun-2024 19:13:49 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:57
+[02-Jun-2024 07:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "Uuid" not found in C:\wamp64\www\MySafa\project\dashboard.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\MySafa\project\dashboard.php on line 28
+[02-Jun-2024 07:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "Uuid" not found in C:\wamp64\www\MySafa\project\dashboard.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\MySafa\project\dashboard.php on line 29
+[02-Jun-2024 07:34:32 UTC] PHP Fatal error:  Uncaught Error: Class "Uuid" not found in C:\wamp64\www\MySafa\project\dashboard.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\MySafa\project\dashboard.php on line 29
+[02-Jun-2024 07:46:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in C:\wamp64\www\MySafa\project\dashboard.php:35
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\dashboard.php(35): mysqli->prepare('INSERT INTO pla...')
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\dashboard.php on line 35
+[02-Jun-2024 08:00:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in C:\wamp64\www\MySafa\project\dashboard.php:35
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\dashboard.php(35): mysqli->prepare('INSERT INTO pla...')
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\dashboard.php on line 35
+[02-Jun-2024 08:06:17 UTC] PHP Warning:  Undefined array key "approval_status" in C:\wamp64\www\MySafa\project\dashboard.php on line 73
+[02-Jun-2024 08:06:17 UTC] PHP Stack trace:
+[02-Jun-2024 08:06:17 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 08:06:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 73
+[02-Jun-2024 08:06:17 UTC] PHP Stack trace:
+[02-Jun-2024 08:06:17 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 08:06:17 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:73
+[02-Jun-2024 13:18:22 UTC] PHP Warning:  Undefined array key "name" in C:\wamp64\www\MySafa\project\dashboard.php on line 69
+[02-Jun-2024 13:18:22 UTC] PHP Stack trace:
+[02-Jun-2024 13:18:22 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 13:18:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 69
+[02-Jun-2024 13:18:22 UTC] PHP Stack trace:
+[02-Jun-2024 13:18:22 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 13:18:22 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:69
+[02-Jun-2024 13:18:22 UTC] PHP Warning:  Undefined array key "surname" in C:\wamp64\www\MySafa\project\dashboard.php on line 70
+[02-Jun-2024 13:18:22 UTC] PHP Stack trace:
+[02-Jun-2024 13:18:22 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 13:18:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 70
+[02-Jun-2024 13:18:22 UTC] PHP Stack trace:
+[02-Jun-2024 13:18:22 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 13:18:22 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:70
+[02-Jun-2024 13:18:22 UTC] PHP Warning:  Undefined array key "approval_status" in C:\wamp64\www\MySafa\project\dashboard.php on line 73
+[02-Jun-2024 13:18:22 UTC] PHP Stack trace:
+[02-Jun-2024 13:18:22 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 13:18:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 73
+[02-Jun-2024 13:18:22 UTC] PHP Stack trace:
+[02-Jun-2024 13:18:22 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[02-Jun-2024 13:18:22 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:73
+[09-Jun-2024 06:48:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'oloratojobeta@gmail.com' for key 'users.email' in C:\wamp64\www\MySafa\project\signup.php:79
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\signup.php(79): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\signup.php on line 79
+[09-Jun-2024 07:31:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reset_token' in 'field list' in C:\wamp64\www\MySafa\project\request_reset.php:57
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\request_reset.php(57): mysqli->prepare('UPDATE users SE...')
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\request_reset.php on line 57
+[09-Jun-2024 07:56:12 UTC] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: No such host is known. 
+[09-Jun-2024 07:59:33 UTC] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: No such host is known. 
+[09-Jun-2024 08:32:40 UTC] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: No such host is known. 
+[09-Jun-2024 08:43:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in C:\wamp64\www\MySafa\project\signup.php:80
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\signup.php(80): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\signup.php on line 80
+[09-Jun-2024 08:50:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in C:\wamp64\www\MySafa\project\signup.php:80
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\signup.php(80): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\signup.php on line 80
+[09-Jun-2024 09:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'where clause' in C:\wamp64\www\MySafa\project\verify.php:9
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\verify.php(9): mysqli->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\verify.php on line 9
+[09-Jun-2024 09:06:27 UTC] PHP Warning:  Undefined array key "token_expiry" in C:\wamp64\www\MySafa\project\verify.php on line 17
+[09-Jun-2024 09:06:27 UTC] PHP Stack trace:
+[09-Jun-2024 09:06:27 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\verify.php:0
+[09-Jun-2024 09:06:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'token_expiry' in 'field list' in C:\wamp64\www\MySafa\project\verify.php:21
+Stack trace:
+#0 C:\wamp64\www\MySafa\project\verify.php(21): mysqli->prepare('UPDATE users SE...')
+#1 {main}
+  thrown in C:\wamp64\www\MySafa\project\verify.php on line 21
+[09-Jun-2024 09:07:55 UTC] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: No such host is known. 
+[09-Jun-2024 09:23:14 UTC] Message could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.example.com failed: No such host is known. 
+[09-Jun-2024 09:26:51 UTC] Requesting password reset for email: oloratojobeta@gmail.com
+[09-Jun-2024 09:26:51 UTC] Token generated: 3086374c-93b6-4810-82aa-bc72d33caef1 for email: oloratojobeta@gmail.com
+[09-Jun-2024 09:26:55 UTC] Email sent successfully to: oloratojobeta@gmail.com
+[09-Jun-2024 09:27:25 UTC] Requesting password reset for email: oloratojobeta@gmail.com
+[09-Jun-2024 09:27:25 UTC] Token generated: 7c625dea-fa02-4d9f-bfd3-8b6832901fd9 for email: oloratojobeta@gmail.com
+[09-Jun-2024 09:27:29 UTC] Email sent successfully to: oloratojobeta@gmail.com
+[09-Jun-2024 10:06:37 UTC] Requesting password reset for email: oloratojobeta@gmail.com
+[09-Jun-2024 10:06:37 UTC] Token generated: 030256aa-c76f-47e3-8e2b-a4626e640fdb for email: oloratojobeta@gmail.com
+[09-Jun-2024 10:06:42 UTC] Email sent successfully to: oloratojobeta@gmail.com
+[09-Jun-2024 10:19:19 UTC] Requesting password reset for email: oloratojobeta@gmail.com
+[09-Jun-2024 10:19:19 UTC] Token generated: eeef87ec-7679-43ee-9957-7a1c794bd50e for email: oloratojobeta@gmail.com
+[09-Jun-2024 10:19:23 UTC] Email sent successfully to: oloratojobeta@gmail.com
+[09-Jun-2024 10:28:46 UTC] Received token from URL: eeef87ec-7679-43ee-9957-7a1c794bd50e
+[09-Jun-2024 10:29:04 UTC] Resetting password with token: eeef87ec-7679-43ee-9957-7a1c794bd50e
+[09-Jun-2024 10:29:04 UTC] Invalid or expired token: eeef87ec-7679-43ee-9957-7a1c794bd50e
+[10-Jun-2024 05:01:36 UTC] Email sent successfully to: dheavenly@gmail.com
+[10-Jun-2024 05:01:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 93
+[10-Jun-2024 05:01:36 UTC] PHP Stack trace:
+[10-Jun-2024 05:01:36 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:01:36 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:93
+[10-Jun-2024 05:01:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 94
+[10-Jun-2024 05:01:36 UTC] PHP Stack trace:
+[10-Jun-2024 05:01:36 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:01:36 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:94
+[10-Jun-2024 05:01:36 UTC] PHP Warning:  Undefined array key "approval_status" in C:\wamp64\www\MySafa\project\dashboard.php on line 97
+[10-Jun-2024 05:01:36 UTC] PHP Stack trace:
+[10-Jun-2024 05:01:36 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:01:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 97
+[10-Jun-2024 05:01:36 UTC] PHP Stack trace:
+[10-Jun-2024 05:01:36 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:01:36 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:97
+[10-Jun-2024 05:40:41 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 105
+[10-Jun-2024 05:40:41 UTC] PHP Stack trace:
+[10-Jun-2024 05:40:41 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:40:41 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:105
+[10-Jun-2024 05:40:41 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 106
+[10-Jun-2024 05:40:41 UTC] PHP Stack trace:
+[10-Jun-2024 05:40:41 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:40:41 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:106
+[10-Jun-2024 05:40:42 UTC] PHP Warning:  Undefined array key "approval_status" in C:\wamp64\www\MySafa\project\dashboard.php on line 109
+[10-Jun-2024 05:40:42 UTC] PHP Stack trace:
+[10-Jun-2024 05:40:42 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:40:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\MySafa\project\dashboard.php on line 109
+[10-Jun-2024 05:40:42 UTC] PHP Stack trace:
+[10-Jun-2024 05:40:42 UTC] PHP   1. {main}() C:\wamp64\www\MySafa\project\dashboard.php:0
+[10-Jun-2024 05:40:42 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\MySafa\project\dashboard.php:109
+[10-Jun-2024 06:12:48 UTC] Sending approval email to: dheavenly@gmail.com
+[10-Jun-2024 06:12:52 UTC] Email sent successfully to: dheavenly@gmail.com
+[10-Jun-2024 06:12:52 UTC] Approval email sent successfully to: dheavenly@gmail.com
